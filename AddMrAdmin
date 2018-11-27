@@ -1,0 +1,3 @@
+sudo useradd -m -k skeleton_diradmin mradmin
+sudo passwd mradmin
+sudo usermod -G sudo mradmin

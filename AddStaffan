@@ -1,0 +1,7 @@
+sudo useradd -m -k skeleton_diruser staffan
+sudo passwd staffan
+#staffan
+su staffan
+#staffan
+cd
+ls
